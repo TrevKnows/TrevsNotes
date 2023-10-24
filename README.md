@@ -3,6 +3,7 @@
 # Overview
 
 This repository is dedicated to the exploration and implementation of search algorithms in Swift. Specifically, this project demonstrates the use of both linear and binary search algorithms. While these algorithms are traditionally showcased with basic data types like integers, we take it a step further by adapting them to work with a custom Users type, emulating the type of data one might handle when dealing with JSON responses from an API.
+# This code was constructed in Swift Playground. It might not complie the same way if it was loaded into a project.
 
 Features
 
